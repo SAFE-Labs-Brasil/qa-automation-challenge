@@ -16,7 +16,7 @@ Technical specifications
 
 - **Platform :** Web (Google Chrome)
 - **Language:** Java
-- **Code writing language:** Inglês
+- **Code writing language:** English
 
 -------------
 Project Requirements
