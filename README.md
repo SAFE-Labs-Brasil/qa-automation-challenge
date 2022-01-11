@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/97542292/149010302-ea32ad5c-3ecb-4a37-9a31-3de26b1ca379.png)
+
+
 # SAFE Labs QA Automation Challenge
 
 ## Presentation
